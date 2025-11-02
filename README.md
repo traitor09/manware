@@ -28,7 +28,7 @@ Automatically detects popular frameworks (React, Next.js, Vue, Hugo, Gatsby) and
 
 ## The Future: A Complete Deployment Lifecycle in Your IDE
 
-Atlas Deploy moves beyond simple convenience to become an indispensable tool for every developer seeking to manage the full software delivery lifecycle, all from the comfort and control of the Visual Studio Code editor.
+MANWARE moves beyond simple convenience to become an indispensable tool for every developer seeking to manage the full software delivery lifecycle, all from the comfort and control of the Visual Studio Code editor.
 ## Deploy to GitHub Pages
 
 The current PoC lets you quickly deploy your static web page (Jekyll or HTML) to GitHub Pages without leaving your IDE.
